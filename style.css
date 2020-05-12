@@ -6,3 +6,8 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 100px;
 }
+
+.image {
+    float: left;
+    size: 50%;
+}
